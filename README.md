@@ -53,3 +53,6 @@ AR导览--线下互动--场地AR步导
 ### 5.功能总览流程图
 ![功能总览流程图](https://images.gitee.com/uploads/images/2019/1112/204259_f3828275_1829797.png "屏幕截图.png")
 
+### APP原型和功能展示
+![原型](https://upload-images.jianshu.io/upload_images/9893857-9e0b962572438c10.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
