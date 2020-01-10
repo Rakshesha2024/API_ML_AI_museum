@@ -65,4 +65,4 @@
 [无法看到图片请点击此处](https://gitee.com/NFUNM171036008/API_img/blob/master/%E5%8A%9F%E8%83%BD%E6%B5%81%E7%A8%8B.png)
 ### 9. APP原型和功能展示
 ![原型](https://gitee.com/NFUNM171036008/API_img/blob/master/%E5%8E%9F%E5%9E%8B.png)
-[无法看到图片请点击此处](https://gitee.com/NFUNM171036008/API_img/blob/master/%E5%8E%9F%E5%9E%8B.png）
+[无法看到图片请点击此处](https://gitee.com/NFUNM171036008/API_img/blob/master/%E5%8E%9F%E5%9E%8B.png)
